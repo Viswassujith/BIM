@@ -1,0 +1,11 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+header{
+    background-image: url(images/pexels-photo-443383.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
